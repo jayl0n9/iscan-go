@@ -10,10 +10,10 @@
   iscan dirscan
 ~~~
 NAME:
-   infoAIO dirscan - infoAIO dirscan -u url
+   Iscan dirscan - infoAIO dirscan -u url
 
 USAGE:
-   infoAIO dirscan [command options] [arguments...]
+   Iscan dirscan [command options] [arguments...]
 
 OPTIONS:
    Dictionary Configuration:
@@ -58,10 +58,10 @@ OPTIONS:
   iscan ipscan 
 ~~~
 NAME:
-   infoAIO ipscan - infoAIO subscan -d url
+   Iscan ipscan - infoAIO subscan -d url
 
 USAGE:
-   infoAIO ipscan [command options] [arguments...]
+   Iscan ipscan [command options] [arguments...]
 
 OPTIONS:
    --proxy value                     Use proxy scan, support http/socks5 protocol [e.g. --proxy socks5://127.0.0.1:1080]
